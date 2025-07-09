@@ -17,10 +17,13 @@ This repository contains the design process, research findings, and interactive 
 ## 🧰 Tools Used
 
 - 🎨 **Figma** – For wireframes and high-fidelity UI  
-  [👉 View Figma File]([https://www.figma.com/file/your-figma-link](https://www.figma.com/design/lVamPwJ4Pt2XvA9in7Q7r4/Tandemloop-Tech?node-id=17-369&t=1o4HQuE7vd6mVbZP-1))
+  👉 [View Figma File](https://www.figma.com/design/1VamPwJ4Pt2XvA9jn7Q7Z4/Tandemloop-Tech?node-id=17-369&t=O4H0uE7yd6mVbZp-1)
 
 - 📁 **Notion** – For documenting the entire design process  
-  [👉 View Notion Doc]([https://www.notion.so/your-notion-link](https://www.notion.so/Tandemloop-Design-Process-22a653907c3080489131ca7af56e893c?source=copy_link))
+  👉 [View Notion Doc](https://www.notion.so/Tandemloop-Design-Process-22a653907c3080489131ca7af56e893c)
+
+- 🛠️ **GitHub** – Version control and documentation
+
 
 
 
